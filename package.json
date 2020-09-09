@@ -30,7 +30,7 @@
     "nedb": "^1.8.0",
     "next": "^7.0.2",
     "next-auth": "^1.12.1",
-    "node-sass": "^4.11.0",
+    "node-sass": "^4.13.1",
     "nodemailer": "^4.7.0",
     "nodemailer-direct-transport": "^3.3.2",
     "nodemailer-smtp-transport": "^2.7.4",
