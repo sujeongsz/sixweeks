@@ -49,7 +49,7 @@
     "react-transition-group": "^2.5.1",
     "reactstrap": "^6.5.0",
     "sass-loader": "^7.1.0",
-    "socket.io": "^2.2.0",
+    "socket.io": "^2.4.0",
     "styled-components": "^4.3.2",
     "tui-editor": "^1.4.5",
     "universal-cookie": "^3.0.7"
